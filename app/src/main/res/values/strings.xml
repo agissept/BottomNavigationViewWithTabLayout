@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigationWithTablayout</string>
+    <string name="completed_job">Completed Job</string>
+    <string name="uncompleted_job">Uncompleted Job</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="news">News</string>
+    <string name="feedback">Feedback</string>
+</resources>
